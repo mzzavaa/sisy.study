@@ -1,6 +1,6 @@
 baseURL = "https://sisy.study/"
 languageCode = "en-us"
-title = "SISY Study — Resources That Prepare You for the Stage"
+title = "SISY Study - Resources That Prepare You for the Stage"
 
 [params]
   description = "Templates, guides, and checklists for women experts preparing speaker bios, CFP submissions, and stage-ready materials."

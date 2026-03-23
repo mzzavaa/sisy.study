@@ -10,7 +10,7 @@ Templates, guides, and checklists for women experts preparing bios, CFPs, and st
 
 ## Sections
 
-- Hero — "Resources that prepare you for the stage"
+- Hero - "Resources that prepare you for the stage"
 - Resource category cards (Bio Templates, CFP Templates, Speaker Guides, Prep Checklists)
 - Featured resource cards
 - Free sampler download (marble gradient background)

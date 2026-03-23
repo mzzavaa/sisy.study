@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — SISY Study{{ end }}</title>
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - SISY Study{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — SISY Study{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - SISY Study{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ .Permalink }}">
@@ -73,8 +73,8 @@
           <ul>
             <li><a href="https://sisy.world">sisy.world</a></li>
             <li><a href="https://sisy.courses">sisy.courses</a></li>
-            <li><a href="https://sisy.my">sisy.my — Profiles</a></li>
-            <li><a href="https://sisy.video">sisy.video — Reels</a></li>
+            <li><a href="https://sisy.my">sisy.my - Profiles</a></li>
+            <li><a href="https://sisy.video">sisy.video - Reels</a></li>
           </ul>
         </div>
         <div class="footer-col">
